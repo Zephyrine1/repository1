@@ -1,0 +1,115 @@
+@font-face {font-family: 'Breathing'; src: url('http://dl.dropbox.com/s/tds99031d0nlxrb/Breathing.ttf?dl=0') format('opentype');}
+
+#silje-f{
+    width: 300px;
+    height: 200px;
+    outline-offset: -9px;
+    border: 15px solid #080808;
+    margin: auto;
+    Overflow: hidden;
+    Position: relative;
+    transition: 0.6s;
+    outline: 1px solid #424040;
+}
+
+.bj-img {
+    margin: auto;
+    background-image: url(https://i.imgur.com/rea4S9j.png);
+    width: 300px;
+    height: 340px;
+  position:absolute;
+ transition: 0.6s;
+margin-top:-70px;
+}
+
+#silje-f:hover .bj-img {
+  margin-top:-140px;
+  height:340px;
+  transition: 0.6s;
+}
+
+
+.b-j2 {
+    font-size: 37px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-transform: lowercase;
+    color: #c5c5c5;
+    margin-top: -12px;
+    font-family: Breathing;
+    margin-bottom: -45px;
+}
+
+#b-j1 {
+font-size: 36px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin-top: 51px;
+    text-shadow: 2px 0 1px #4a4444;
+    padding: 1px;
+    margin-left: 34px;
+    line-height: 36px;
+    animation-name: koa;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: koa;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+}
+
+.b-j{
+width: 105px;
+    text-align: justify;
+    display: grid;
+    height: 200px;
+    margin-top:50px;
+  float:right;
+    padding:20px;
+    color: #ccc;
+    line-height: 8px;
+    text-transform: uppercase;
+    font-size: 8px;
+    font-family: calibri;
+    letter-spacing: 1px;
+  transition: 0.6s;
+}
+
+#silje-f:hover .b-j{ 
+margin-top:100px;
+  transition: 0.6s;
+}
+
+
+@keyframes koa {
+  0% {olor:#6DB380;}
+  25% {color: #6DB3AC;}
+  50% {color: #6D80B3;}
+  75% {color: #A16DB3;}
+  100% {color: #B3B36D;}
+}
+@-webkit-keyframes koa {
+  0% {olor:#6DB380;}
+  25% {color: #6DB3AC;}
+  50% {color: #6D80B3;}
+  75% {color: #A16DB3;}
+  100% {color: #B3B36D;}
+}
+
+@keyframes koa1 {
+  0% {olor:#6DB380;}
+  25% {color: #6DB3AC;}
+  50% {color: #6D80B3;}
+  75% {color: #A16DB3;}
+  100% {color: #B3B36D;}
+}
+@-webkit-keyframes koa1 {
+  0% {olor:#6DB380;}
+  25% {color: #6DB3AC;}
+  50% {color: #6D80B3;}
+  75% {color: #A16DB3;}
+  100% {color: #B3B36D;}
+}

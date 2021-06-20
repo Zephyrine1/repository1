@@ -14,12 +14,12 @@
 
 .bj-img {
     margin: auto;
-    background-image: url(https://i.imgur.com/PWmtvoT.png);
+    background-image: url(https://i.imgur.com/d3Or2r3.png);
     width: 300px;
     height: 340px;
   position:absolute;
  transition: 0.6s;
-margin-top:-20px;
+margin-top:-0px;
 }
 
 #silje-f:hover .bj-img {

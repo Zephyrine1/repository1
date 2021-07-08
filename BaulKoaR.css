@@ -32,7 +32,7 @@ body {background:#040404;}
 
 .plays{text-align: center;
     width: 150px;
-    height: 30px;
+    height: auto;
     padding: 5px;
     line-height: 15px;
     border: 1px solid #090909;

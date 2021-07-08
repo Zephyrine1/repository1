@@ -62,6 +62,17 @@ autor{display:block;
   color:#ccc;
 }
 
+.triangulo {
+    margin: auto;
+    margin-top:40px;
+    width: 70px;
+    height: 70px;
+    transform: rotate(45deg);
+    overflow: hidden;
+    outline: 1px solid #aa7979;
+    border: 5px solid #000;
+}
+
 .text {
     border-bottom: 3px solid;
     border-color: #486462;

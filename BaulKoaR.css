@@ -6,6 +6,7 @@ body {background:#040404;}
   height:auto;
   padding:10px;
   background:#060606;
+  border: 1px solid #dedede;
 }
 .rt1{
   margin-top:40px;

@@ -30,6 +30,22 @@ body {background:#040404;}
     
 }
 
+.arma {
+vertical-align: top;
+    display: inline-block;
+    color: #b3b2b2;
+    font-size: 9px;
+    font-family: arial;
+    width: 110px;
+  padding:10px;
+    text-align: center;
+    margin: 10px;
+  margin-left:33px;
+    line-height:20px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
 .text {
     border-bottom: 3px solid;
     border-color: #486462;

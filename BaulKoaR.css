@@ -29,27 +29,37 @@ body {background:#040404;}
     
 }
 
-
-.arma {
-vertical-align: top;
+.plays{text-align: center;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    line-height: 15px;
+    border: 1px solid #090909;
+    background: #050505;
+  margin:3px;
+  vertical-align: top;
     display: inline-block;
-    color: #b3b2b2;
-    font-size: 9px;
-    font-family: arial;
-    width: 110px;
-  padding:10px;
-    text-align: center;
-    margin: 10px;
-  margin-left:33px;
-    line-height:20px;
-    text-transform: uppercase;
-    font-weight: 900;
 }
 
-#armita {
-font-size:15px;
-  color:#aa7979;
-display:block;
+cancion{
+     text-align: center;
+    font: 11px arial;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #b5b5b5;
+  line-height:9px;
+  margin-top: 8px;
+  display:block;
+}
+autor{display:block;
+    font-family: calibri;
+    font-size: 7.5px;
+    font-style: italic;
+    line-height: 10px;
+  letter-spacing:1px;
+    text-transform: uppercase;
+    text-align: center; 
+  color:#ccc;
 }
 
 .text {

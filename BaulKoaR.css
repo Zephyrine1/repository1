@@ -63,6 +63,28 @@ autor{display:block;
   color:#ccc;
 }
 
+.arma {
+vertical-align: top;
+    display: inline-block;
+    color: #b3b2b2;
+    font-size: 9px;
+    font-family: arial;
+    width: 110px;
+  padding:10px;
+    text-align: center;
+    margin: 10px;
+  margin-left:33px;
+    line-height:20px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#armita {
+font-size:15px;
+  color:#aa7979;
+display:block;
+}
+
 .img10 {
     width: 100px;
     height: 100px;

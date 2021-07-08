@@ -12,6 +12,7 @@ body {background:#040404;}
   margin-top:40px;
  width:370px;
   height:auto;
+  background:linear-gradient(to bottom right,#1A3D3B, #486462, #768B89, #A3B1B1); 
   padding:10px; 
   margin-left:-10px;
   text-align:Center;

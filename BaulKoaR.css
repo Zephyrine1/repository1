@@ -46,6 +46,12 @@ vertical-align: top;
     font-weight: 900;
 }
 
+#armita {
+font-size:15px;
+  color:#aa7979;
+display:block;
+}
+
 .text {
     border-bottom: 3px solid;
     border-color: #486462;

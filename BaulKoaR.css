@@ -62,6 +62,13 @@ autor{display:block;
   color:#ccc;
 }
 
+.img10 {
+    width: 100px;
+    height: 100px;
+    transform: rotate(-45deg);
+    margin: -15px;
+}
+
 .triangulo {
     margin: auto;
     margin-top:40px;

@@ -10,17 +10,18 @@ margin-top:1px!important;
 }
 
 .hab1 {
-    width: 166px;
+    width: 331px;
     height: 96px;
     padding: 10px;
     background: #060606;
-  border:5px solid #0c0c0c;
-margin-top:1px!important;
-  margin:auto;
-  color:#ccc;
-  font-size:10px;
-  letter-spacing:1px;
+    border: 5px solid #0c0c0c;
+    margin-top: 1px!important;
+    margin: auto;
+    color: #ccc;
+    font-size: 10px;
+    letter-spacing: 1px;
 }
+
 .hab2{  
   float:right;
   margin-top:33px;
